@@ -4,7 +4,7 @@ Enum like key-value map
 # How to use
 
 ```
-const Enum from "enum-map";
+import Enum from "enum-map";
 
 const ACTIONS = Enum(
   "REMOVE_TODO",
