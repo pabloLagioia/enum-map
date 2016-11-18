@@ -1,0 +1,26 @@
+{
+  "name": "enum-map",
+  "version": "1.0.1",
+  "description": "Enum like key-value map",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pabloLagioia/enum-map.git"
+  },
+  "keywords": [
+    "enum"
+  ],
+  "author": "pablo.lagioia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pabloLagioia/enum-map/issues"
+  },
+  "homepage": "https://github.com/pabloLagioia/enum-map#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2"
+  }
+}
